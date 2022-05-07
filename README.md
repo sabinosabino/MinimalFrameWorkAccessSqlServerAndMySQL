@@ -1,4 +1,4 @@
-# Minimal FrameWork Access And SqlServer
+# Minimal Framework Access And SqlServer
 Project Create for bilder Class Model, Class Services Forms in Ms Access for SQL Server
 
 Soon I will post a video explaining features.
