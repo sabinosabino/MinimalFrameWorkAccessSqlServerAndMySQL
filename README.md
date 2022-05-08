@@ -1,5 +1,4 @@
-# Minimal Framework Access And SqlServer
-Project Create for bilder Class Model, Class Services and Forms in Ms Access for SQL Server
+# Minimal Framework Access And SQLSERVER Or MySQL
 
 Soon I will post a video explaining features.
 
@@ -7,7 +6,7 @@ Soon I will post a video explaining features.
 
 2-Give Your Class Name being the same as your Table. The idea is to generate a model.
 
-3-Click on generate from Database. (Press F5 to refresh the subform... I haven't covered that part yet)
+3-Click on generate from Database.
 
 4-Define the data types.
 
@@ -23,7 +22,7 @@ Em breve irei postar um vídeo explicando funcionalidades.
 
 2-Dê o Nome da Sua Classe sendo o mesmo que sua Tabela. A Ideia é gerar um modelo.
 
-3-Clique em gerar do Banco de Dados. (Pressione F5 para atualizar o subformulário... ainda  não tratei essa parte)
+3-Clique em gerar do Banco de Dados.
 
 4-Defina os tipos de dados.
 
